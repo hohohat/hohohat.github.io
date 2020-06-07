@@ -12,7 +12,7 @@ author: Mirosl21
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+#  About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
