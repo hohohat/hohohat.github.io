@@ -8,7 +8,7 @@ Vitajte na stránke Hathat ultimate ligy.
 
 ## O HatHat Lige
 
-Hathat je nekompetetívna ultimate súťaž; jej formát je kombináciou švajčiarskeho systému a hatka. Hráči sa do ligy prihlasujú ako jednotlivci, zápasy odohrajú v ľubovoľnej zostave s ostatnými hráčmi, a na základe výsledkov je každému hráčovi priradené skóre. Prihlásiť sa je možné [na tomto linku](https://miroslav21.github.io/register).
+Hathat je nekompetetívna ultimate súťaž; jej formát je kombináciou švajčiarskeho systému a hatka. Hráči sa do ligy prihlasujú ako jednotlivci, zápasy odohrajú v ľubovoľnej zostave s ostatnými hráčmi, a na základe výsledkov je každému hráčovi priradené skóre. Prihlásiť sa je možné [na tomto linku](https://miroslav21.github.io/prihlasenie).
 
 {: .box-note}
 **Note:** Liga je vo fáze testovania. 
