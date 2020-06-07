@@ -13,6 +13,8 @@ author: Mirosl21
 
 navbar-links:
 #  About: "about"
+  Prihlásenie: "register"
+#  About: "about"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
