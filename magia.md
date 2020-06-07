@@ -13,4 +13,5 @@ title: Ako?
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> 
   
-  $x = \underset{x}{\mathrm{argmin}}$
+
+$x = \underset{x}{\mathrm{argmin}} \sum_{(\tau_1, \sigma_1, \sigma_2, \tau_2, \Delta)\in\Gama} \Delta((\frac{x^T\cdot\tau_1}{\tau_1^T\cdot\tau_1} - \frac{x^T\cdot\tau_2}{\tau_2^T\cdot\tau_2}) - (\sigma_1 - \sigma_2))^2$
