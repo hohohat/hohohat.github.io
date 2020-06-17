@@ -15,7 +15,7 @@ Hathat je nekompetetívna ultimate súťaž; jej formát je kombináciou švajč
 
 ## Pravidlá
 
-Zápasy by mali trvať 30 minút a byť 5v5. Prípadný iný formát zápasu bude zohľadnéný zmenou váhy daného zápasu pri výpočte hráčskych skóre. Po odohratí zápasu napíšte vietekomu zoznam hráčov, skóre, trvanie a dátum zápasu. Všetci hráči musia byť prihlásený do ligy. Skóre bude pridelené až po odohratí troch zápasov. 
+Zápasy by mali trvať 30 minút a byť 5v5. Prípadný iný formát zápasu bude zohľadnéný zmenou váhy daného zápasu pri výpočte hráčskych skóre. Po odohratí zápasu napíšte Mirovi zoznam hráčov, skóre, trvanie a dátum zápasu. Všetci hráči musia byť prihlásený do ligy. Skóre bude pridelené až po odohratí troch zápasov. 
 
 ## Aktuálne Poradie
 
